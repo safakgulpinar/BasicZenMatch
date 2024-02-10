@@ -1,6 +1,8 @@
 # BasicZenMatch
 - This project includes simple zen match mechanic. It was developed quickly within the framework of basic rules that are open to improvement. It is supported by two free assets.
 
+- Editor Version: 2022.3.7f1
+
 Assets you must have:
 - [LeanTouch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111)
 - [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
